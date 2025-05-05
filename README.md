@@ -10,7 +10,17 @@ Proyek ini menggabungkan kecerdasan buatan berbasis aturan (rule-based expert sy
 
 ## 📁 Struktur File
 
-<pre> ```text sistem-pakar-outfit/ ├── main.py # File utama untuk menjalankan aplikasi ├── knowledge_base.py # Basis pengetahuan dalam Python ├── outfit_kb.pl # Basis pengetahuan dalam format Prolog ├── recommendation_engine.py # Mesin inferensi dan logika rekomendasi ├── ui_components.py # Komponen antarmuka pengguna ├── prolog_bridge.py # Penghubung antara Python dan Prolog (jika digunakan) └── README.md # Dokumentasi proyek ini ``` </pre>
+```text
+sistem-pakar-outfit/
+├── main.py                  # File utama untuk menjalankan aplikasi
+├── knowledge_base.py        # Basis pengetahuan dalam Python
+├── outfit_kb.pl             # Basis pengetahuan dalam format Prolog
+├── recommendation_engine.py # Mesin inferensi dan logika rekomendasi
+├── ui_components.py         # Komponen antarmuka pengguna
+├── prolog_bridge.py         # Penghubung antara Python dan Prolog (jika digunakan)
+└── README.md                # Dokumentasi proyek ini
+```
+
 
 ## 🚀 Fitur Utama
 
