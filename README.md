@@ -33,6 +33,7 @@ sistem-pakar-outfit/
 2. Jalankan file utama:
 ```bash
 python main.py
+```
 
 ## Struktur Sistem Pakar
 Sistem ini mengikuti struktur sistem pakar dengan:
