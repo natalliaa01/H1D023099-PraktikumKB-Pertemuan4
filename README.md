@@ -28,15 +28,17 @@ sistem-pakar-outfit/
 - Rekomendasi warna sesuai musim
 - Tips khusus berdasarkan cuaca dan agenda
 
-## Struktur Sistem Pakar
-Sistem ini mengikuti struktur sistem pakar dengan:
-1. Basis Pengetahuan - Data tentang pakaian dan aturan pencocokan
-2. Mesin Inferensi - Logika yang menentukan rekomendasi berdasarkan input
-3. Antarmuka Pengguna - Tampilan untuk berinteraksi dengan sistem
-
 ## Cara Menjalankan
 1. Pastikan semua file berada dalam satu direktori
 2. Jalankan file utama:
 ```bash
 python main.py
 
+## Struktur Sistem Pakar
+Sistem ini mengikuti struktur sistem pakar dengan:
+1. Basis Pengetahuan - Data tentang pakaian dan aturan pencocokan
+2. Mesin Inferensi - Logika yang menentukan rekomendasi berdasarkan input
+3. Antarmuka Pengguna - Tampilan untuk berinteraksi dengan sistem
+
+## Lisensi
+Aplikasi ini tersedia secara bebas untuk tujuan pendidikan dan pengembangan pribadi.
